@@ -20,6 +20,9 @@
 
 | 作品 | 一句话 |
 |------|--------|
+| [ai-line-skills](https://github.com/miaqu766520-a11y/ai-line-skills) | AI 自媒体生产线：18 个精选 Claude Skills，解压丢给智能体三步装一条内容生产线 |
+| [wechat-auto-publisher](https://github.com/miaqu766520-a11y/wechat-auto-publisher) | 公众号自动化：选题 → AI 改写 → 直推草稿 |
+| [WorkBuddyGuide](https://github.com/miaqu766520-a11y/WorkBuddyGuide) | WorkBuddy 实战蓝皮书：教程、真实工作流、多智能体实践 |
 | [blogger-tracker](https://github.com/miaqu766520-a11y/blogger-tracker) | 浏览器自动化博主追踪：默认走本地浏览器免费抓取，付费 API 作备用引擎 |
 | [kb-builder](https://github.com/miaqu766520-a11y/kb-builder) | 对话式搭建本地知识库：回答十来个问题，帮你把知识库搭起来 |
 | [拼豆图纸生成器](https://diy.wangwangpindou.top) | 在线工具：上传图片，自动生成拼豆图纸 |
